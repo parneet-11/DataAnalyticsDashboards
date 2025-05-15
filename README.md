@@ -1,38 +1,37 @@
-Data Analytics Dashboards
-This project focuses on analyzing telecom customer data to identify trends and patterns. The goal is to understand customer behavior and present insights through visualizations.
+# Data Analytics Dashboards
 
-Contents
-Telecom.csv: Dataset used for analysis
+This project focuses on analyzing telecom customer data to identify trends and patterns.  
+The goal is to understand customer behavior and present insights through visualizations.
 
-Telecom - Statistics Analysis.ipynb: Jupyter notebook with data exploration and visualizations
+---
 
-Telecom - Statistics Analysis.pdf / .html: Exported versions of the notebook
+## 📁 **Contents**
 
-__main__.py: Script version of the analysis
+- **`Telecom.csv`**: Dataset used for analysis  
+- **`Telecom - Statistics Analysis.ipynb`**: Jupyter notebook with data exploration and visualizations  
+- **`Telecom - Statistics Analysis.pdf` / `.html`**: Exported versions of the notebook  
+- **`__main__.py`**: Script version of the analysis  
 
-Tools Used
-Python
+---
 
-Pandas
+## 🛠️ **Tools Used**
 
-Matplotlib
+- **Python**  
+- **Pandas**  
+- **Matplotlib**  
+- **Seaborn**  
+- **Plotly**  
+- **Jupyter Notebook**
 
-Seaborn
+---
 
-Plotly
+## ▶️ **How to Run**
 
-Jupyter Notebook
+1. **Clone the repository**  
+2. **Install required Python packages**  
+3. **Open the notebook or run the script**
 
-How to Run
-Clone the repository
-
-Install required Python packages
-
-Open the notebook or run the script
-
-bash
-Copy
-Edit
+```bash
 jupyter notebook "Telecom - Statistics Analysis.ipynb"
 # or
 python __main__.py
